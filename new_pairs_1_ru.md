@@ -35,4 +35,13 @@ API сигналы считать.
 
 ---
 
-**Genre**: Electro Pop, Synth Wave, Lo-Fi Hip Hop, Future Bass, J-Pop, Ambient Electronic, Techno, Glitch Hop, Indie Electronic, Cyber Folk
+**Genre**: 
+- Electro Pop, Synth Wave, Lo-Fi Hip Hop, Future Bass, J-Pop, Ambient Electronic, Techno, Glitch Hop, Indie Electronic, Cyber Folk
+- Cyberpunk, Synthpop, Vaporwave, Chillstep, Electronic
+- Trance, Ambient, IDM, Minimal Techno, Drum and Bass
+- Dubstep, Trap, Electronic Rock, Chiptune, 8-bit
+- Progressive House, Deep House, Tech House, Lounge, Chill-out
+- Industrial Electronic, Downtempo, Trip Hop, Breakbeat, Glitch
+- Experimental Electronic, Future Garage, Witch House, Synthwave, Darkwave
+- Neo-Classic Electronic, Cinematic Electronic, Digital Fusion, Tech Noir, Cyber Jazz
+- Algorave, Datacore, Trading Beats, Financial Wave, Market Pulse
